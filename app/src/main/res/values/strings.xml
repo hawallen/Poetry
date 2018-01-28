@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">文艺生活</string>
+    <string name="favor">favor</string>
+    <string name="favour">My Favour</string>
+    <string name="share">share</string>
+    <string name="menu_quit">quit</string>
+    <string name="quit_tips">Do you want to quit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">clear all</string>
+    <string name="back">back</string>
+    <string name="delete">delete all</string>
+    <string name="tips_share">sharing is a virtue</string>
+    <string name="weibo_max_num">140</string>
+    <string name="weibo_content_empty">weibo content is empty</string>
+    <string name="share_succeed">share succeed</string>
+    <string name="share_fail">share fail</string>
+    <string name="mkdirsEX">Cannot make directories</string>
+    <string name="SDCardNotExist">SDCard not exist</string>
+    <string name="tips_delete_favour">whether delete all favour?</string>
+    <string name="tips_quit">whether quit this program?</string>
+    <string name="tips_poetry">try to shake you device</string>
+    <string name="comma">，</string>
+    <string name="period">。</string>
+    
+    <string name="about">About</string>
+    <string name="weibo">Weibo:@MT_胡安林</string>
+    <string name="check_update">Check Update</string>
+
+</resources>

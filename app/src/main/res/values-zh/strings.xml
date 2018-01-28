@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">文艺生活</string>
+    <string name="favor">收藏</string>
+    <string name="favour">我的收藏</string>
+    <string name="share">分享</string>
+    <string name="menu_quit">退出</string> 
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="clear">清除所有</string>
+    <string name="back">返回</string>
+    <string name="delete">删除所有</string>
+    <string name="tips_share">分享是一种美德</string>
+    <string name="weibo_content_empty">微博内容为空</string>
+    <string name="share_succeed">分享成功啦</string>
+    <string name="share_fail">分享失败哦</string>
+    <string name="mkdirsEX">创建目录失败</string>
+    <string name="SDCardNotExist">SD卡不存在</string>
+    <string name="tips_delete_favour">是否删除所有收藏?</string>
+    <string name="tips_quit">是否退出程序?</string>
+    <string name="tips_poetry">摇动设备试一试</string>
+    <string name="comma">，</string>
+    <string name="period">。</string>
+    
+    <string name="about">关于</string>
+    <string name="weibo">weibo:@MT_胡安林</string>
+    <string name="check_update">检查更新</string>
+    
+</resources>
